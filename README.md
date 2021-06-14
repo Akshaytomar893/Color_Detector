@@ -1,5 +1,5 @@
 # Color_Detector
-##Color Detector using Python
+<h2>Color Detector using Python</h2>
 
 This project detects the color from the selected image and provides the R,G,B values and name of the color
 
